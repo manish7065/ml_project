@@ -1,0 +1,6 @@
+[2022-09-16 12:14:17,559] werkzeug - WARNING -  * Debugger is active!
+[2022-09-16 12:14:17,573] werkzeug - INFO -  * Debugger PIN: 123-602-229
+[2022-09-16 12:14:31,581] root - INFO - Error occured in script: [C:\Users\admi\Desktop\ml_project\app.py]at line number: [14] error message:[We are testing custom exception]
+[2022-09-16 12:14:31,581] root - INFO - WE are testing logging module
+[2022-09-16 12:14:31,582] werkzeug - INFO - 127.0.0.1 - - [16/Sep/2022 12:14:31] "GET / HTTP/1.1" 200 -
+[2022-09-16 12:14:31,973] werkzeug - INFO - 127.0.0.1 - - [16/Sep/2022 12:14:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
