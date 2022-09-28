@@ -1,0 +1,2 @@
+[2022-09-28 12:28:01,584] root - INFO - Training pipeline config: TrainingPipelineConfig(artifact_dir='c:\\Users\\admi\\Desktop\\ml_project\\housing\\artifact')
+[2022-09-28 12:30:17,259] root - INFO - Training pipeline config: TrainingPipelineConfig(artifact_dir='c:\\Users\\admi\\Desktop\\ml_project\\housing\\artifact')
