@@ -1,0 +1,5 @@
+[2022-10-01 13:13:12,228] root - INFO - Training pipeline config: TrainingPipelineConfig(artifact_dir='c:\\Users\\admi\\Desktop\\ml_project\\housing\\artifact')
+[2022-10-01 13:13:12,296] root - INFO - Training pipeline config: TrainingPipelineConfig(artifact_dir='c:\\Users\\admi\\Desktop\\ml_project\\housing\\artifact')
+[2022-10-01 13:13:12,519] root - INFO - Training pipeline config: TrainingPipelineConfig(artifact_dir='c:\\Users\\admi\\Desktop\\ml_project\\housing\\artifact')
+[2022-10-01 13:13:13,732] root - INFO - Training pipeline config: TrainingPipelineConfig(artifact_dir='c:\\Users\\admi\\Desktop\\ml_project\\housing\\artifact')
+[2022-10-01 13:13:14,572] root - INFO - Training pipeline config: TrainingPipelineConfig(artifact_dir='c:\\Users\\admi\\Desktop\\ml_project\\housing\\artifact')
