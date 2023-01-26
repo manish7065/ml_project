@@ -1,6 +1,10 @@
 Flask
 gunicorn
-sklearn
+scikit-learn
 pandas
 numpy
+PyYAML==5.1
+evidently
+dill
+matplotlib
 -e .
